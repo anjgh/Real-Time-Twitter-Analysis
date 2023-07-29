@@ -1,6 +1,6 @@
 # Twitter Text Analytics Using Apache Spark
 
-Below are screemshots of the live dashboards for popularity and sentiment analysis of tweets. 
+Below are screenshots of the live dashboards for popularity and sentiment analysis of tweets. 
 
 ## Indentifying Trends on Twitter
 Indentifying and visualizing the popularity of hashstags in realtime. 
